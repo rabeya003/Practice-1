@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.org{
+    color: rgb(15, 25, 136);
+}
+.flex{
+    display: flex;
+    margin-bottom: 150px;
+    background-image: linear-gradient(rgb(230, 230, 238),rgb(210, 233, 247),rgb(213, 240, 251));
+}
+.half{
+    width: 50%;
+    padding-left: 10%;
+}
+.link{
+    background-image:linear-gradient(rgb(161, 205, 216),rgb(161, 197, 222));
+    color: aliceblue;
+    text-decoration: none;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 10px;
+}
+.fimg{
+    width: 70%;
+}
+.margin{
+    margin-bottom: 100px;
+}
+h2{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500px;
+    margin-bottom: 30px;
+}
+h1{
+    font-size: 30px;
+}
+.recipies{
+    text-align: center;
+}
+.food{
+    box-shadow: 20px 20px 40px gray;
+    padding-left: 50px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 5px;
+}
+.foodimg{
+    width:30%;
+    margin-top: 5px;
+}
+.Flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+.sub{
+    display: flex;
+    margin-bottom: 150px;
+    border-radius: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5px;
+    box-shadow: 10px 10px 20px gray;
+
+}
+.k{
+    text-align: right end;
+}
+.follow{
+    display: flex;
+    text-align: center;
+}
+.insta{
+    text-align: center;
+}
+.fresh{
+    color: gray;
+}
+.eat{
+    color: rgb(223, 40, 40);
+}
+.Fs{
+    color: white;
+    margin-bottom: 100px;
+}
+
+.footer{
+    text-align: center;
+    background-image:linear-gradient(rgb(39, 35, 35),black);
+}
