@@ -63,6 +63,7 @@ h1{
     margin-right: 5%;
     padding-left: 5px;
     box-shadow: 10px 10px 20px gray;
+    flex-direction: column;
 
 }
 .k{
@@ -89,4 +90,7 @@ h1{
 .footer{
     text-align: center;
     background-image:linear-gradient(rgb(39, 35, 35),black);
+}
+footer p{
+    margin: 0;
 }
